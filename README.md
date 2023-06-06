@@ -12,3 +12,4 @@ const result = cutFirstWord + deletFirstWord ;
 console.log(result)
 
 ```
+#### output : Younes sheikhlar
